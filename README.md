@@ -14,7 +14,7 @@
 El proyecto construye un modelo de aprendizaje automático para pronosticar la tasa de cancelación de usuarios en Interconnet, un operador de telecomunicaciones. Se utilizan datos personales, planes y contratos para anticipar la cancelación y permitir acciones de retención con ofertas personalizadas.
 
 ## Datos
-Se utilizaron XXX conjuntos de datos principales:  
+Se utilizaron 4 conjuntos de datos principales:  
 - **contract.csv**: Datos de contratos de 7,043 clientes con fechas, tipo, pago y cargos mensuales y totales.
 - **personal.csv**: Información demográfica y estado civil de 7,043 clientes, incluyendo género y dependientes.
 - **internet.csv**: Servicios de internet contratados por 5,517 clientes, con detalles de seguridad, backup y streaming.
